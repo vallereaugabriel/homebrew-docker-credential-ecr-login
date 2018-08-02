@@ -5,5 +5,5 @@ Homebrew Formula for [Amazon ECR Docker Credential Helper](https://github.com/aw
 ## Installation
 
 ```sh
-brew install https://raw.githubusercontent.com/winebarrel/homebrew-docker-credential-ecr-login/master/docker-credential-ecr-login.rb
+brew install https://raw.githubusercontent.com/vallereaugabriel/homebrew-docker-credential-ecr-login/master/docker-credential-ecr-login.rb
 ```
